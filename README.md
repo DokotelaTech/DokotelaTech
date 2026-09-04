@@ -146,23 +146,8 @@ I learn by building real projects, experimenting with technologies, solving prob
 
 ---
 
-# 🗓️ Contribution Overview
 
-<div align="center">
-
-<a href="https://github.com/DokotelaTech">
-
-<img src="https://ghchart.xqsit94.in/dark:default/DokotelaTech" alt="Nhlakanipho's GitHub Contribution Graph" width="100%"/>
-
-</a>
-
-</div>
-
-<br/>
-
----
-
-# 🧩 Featured Projects
+# 🧩 Featured Main Projects
 
 These are some of the projects currently featured on my GitHub profile.
 
